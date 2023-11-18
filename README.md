@@ -6,6 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/mromerodriven/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mromerodriven/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mromerodriven/ticket-lifecycle)
+- <b>Self Hosted Help Desk (Linode/Peppermint)</b>
+  - [Created In-House Help Desk using Linode Cloud](https://github.com/mromerodriven/linode-helpdesk)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mromerodriven/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mromerodriven/azure-network-protocols)

@@ -1,10 +1,15 @@
-Hello 
+<h1>Hi, I'm Matt, an IT Professional</h1>
 
-- 👋 Hi, I’m @mromerodriven
-- 👀 I’m interested in developing my systems at work (real estate)
-- 🌱 I’m currently learning about webhooks and javascript
-- 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me mromerodiven
+<h2>Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/mromerodriven/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 <!---
 mromerodriven/mromerodriven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

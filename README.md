@@ -14,7 +14,6 @@
   - [Organized Audit Completion with Automation & Filtering](https://github.com/mromerodriven/at-audit-organization)
 - <b>Follow Up Boss</b>
   - [Improved Efficiency of Lead Delivery](https://github.com/mromerodriven/fub-lead-delivery)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mromerodriven/azure-network-protocols)
 
 
 <!---

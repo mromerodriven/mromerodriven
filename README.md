@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mromerodriven/azure-network-protocols)
 - <b>AirTable</b>
   - [Created Confirmation Automation of Utility Bill Paid](https://github.com/mromerodriven/at-utility-confirmation)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mromerodriven/azure-network-protocols)
+  - [Organized Audit Completion with Automation & Filtering](https://github.com/mromerodriven/at-audit-organization)
 - <b>Follow Up Boss</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mromerodriven/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mromerodriven/azure-network-protocols)

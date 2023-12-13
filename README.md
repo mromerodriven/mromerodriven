@@ -13,7 +13,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mromerodriven/azure-network-protocols)
 - <b>AirTable</b>
   - [Created Confirmation Automation of Utility Bill Paid](https://github.com/mromerodriven/at-utility-confirmation)
-  - [Organized Audit Completion with Automation & Filtering](https://github.com/mromerodriven/at-audit-organization)
 - <b>Follow Up Boss</b>
   - [Improved Efficiency of Lead Delivery](https://github.com/mromerodriven/fub-lead-delivery)
 
